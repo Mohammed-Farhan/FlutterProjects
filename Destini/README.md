@@ -1,4 +1,4 @@
-# destini
+# Destini Stories
 
 A new Flutter project for defining of destini stories according to the user input selected, it will explain how the story starts and how it ends according to the option selected.
 
