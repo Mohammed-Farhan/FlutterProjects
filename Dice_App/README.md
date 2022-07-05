@@ -1,16 +1,11 @@
-# dice_app
+# Dice App
 
-A new Flutter project.
+A Flutter project for rolling two dice on one click in either of the dices. It can be used as a multiplayer game at once.
 
-## Getting Started
+<table>
+<tr>
+ <td><img src="https://user-images.githubusercontent.com/54237095/177389834-719348ed-f5d2-4cef-b910-babb384d98f5.png" alt="Inputs_Page" width="400" height="800"/></td>
+<td><img src="https://user-images.githubusercontent.com/54237095/177389839-8469a985-0461-4c18-9d6e-557930872207.png" alt="Results_Page" width="400" height="800"/></td>
+</tr>
+</table> 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
