@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project for Xylophone which plays different musical instrumental sounds.
+A new Flutter project for Xylophone which plays different musical instrumental sounds when clicked on any color.
 
 <table>
 <tr>
